@@ -7,7 +7,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-geolocated": "^2.5.0",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "semantic-ui": "^2.4.2"
   },
   "scripts": {
@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "babel-eslint": "10.0.1",
-    "eslint": "5.16.0",
+    "eslint": "9.39.1",
     "eslint-config-airbnb": "17.1.0",
     "eslint-config-babel": "9.0.0",
     "eslint-config-prettier": "4.3.0",
